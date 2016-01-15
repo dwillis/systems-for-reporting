@@ -6,6 +6,10 @@
 
 ### Course Information
 
+#### About the Instructor
+
+I have worked as a journalist since 1995, when I secured [an internship offer from The Palm Beach Post](http://dwillis.net/image/42295553170) against a dozen rejections from [some](http://dwillis.net/image/42289385513) [of](http://dwillis.net/image/42283024010) [the](http://dwillis.net/image/42282077315) [finest](http://dwillis.net/image/42281381971) news organizations in the country. Somehow, I went on to work for some of them: Congressional Quarterly, [The Center for Public Integrity](http://www.publicintegrity.org/authors/derek-willis), [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2005/05/04/AR2005050402393.html), [The New York Times](http://topics.nytimes.com/top/reference/timestopics/people/w/derek_willis/index.html) and now [ProPublica](https://www.propublica.org/site/author/derek_willis). Although it may appear that I have trouble keeping a job, I mostly have moved to chase new opportunities, especially those involving data and the Internet. This is why I teach: because as many issues as journalism has, it has so many opportunities. My skill is not as a writer or interviewer, but I love finding stories in data, and making that process easier. My Internet claim to fame is that I was named "Wanker of the Day" by liberal blogger Atrios for [Jan. 17, 2006](http://www.eschatonblog.com/2006/01/wanker-of-day_17.html). I am not a [University of Kentucky basketball player](http://www.ukathletics.com/sport/m-baskbl/2015/roster/559d907be4b01c7eefd5ec97), but I do like basketball (and have season tickets to women's basketball). If you'd like somebody else's take on me, [here's one](http://radar.oreilly.com/2012/03/profile-of-the-data-journalist-1.html).
+
 #### Communication
 
 The very best way to reach me is by email; if you have a question, doubt, concern or cat picture to share, email me. I will make every attempt to notify students should our schedule change.
@@ -30,7 +34,15 @@ As an example of this, consider the Supreme Court: each ruling is in itself a po
 
 Together, we'll work with some of the tools for building system for reporting: spreadsheets, databases, pattern matching and some programming, including web scraping and building useful but simple sites for reporting. Students will work in small teams to choose a beat, research data sources around it and develop a web-based system to surface useful and unusual aspects of the data. You will be doing some work that qualifies as "computer programming" in this course, but it is not a programming course. This is a course about using computers and software to make you a better journalist.
 
-One of the goals is to create and deploy simple tools and systems that could be evaluated and used by journalists at the university and in the professional world. These could range from Twitter bots that capture and broadcast key information from government data to simple Web sites that make it easier to compare changes over time or data from different geographic areas. The other, more important, goal is that students leave the course with an idea of how to use technology to approach a beat in a systematic manner.
+One of the goals is to create and deploy simple tools and systems that could be evaluated and used by journalists at the university and in the professional world. These could range from tools that capture and broadcast key information from government data to simple Web sites that make it easier to compare changes over time or data from different geographic areas. Some examples:
+
+  * [Mentions of ProPublica in Congressional Record](http://dwillis.github.io/paper-of-record/?apikey=474754a0d230cc71b31b8bf6d313b70c&notify=false)
+  * [FEC Electronic Filings Dashboard](http://bycoffe.com/fec-dashboard/)
+  * [Extract Text from a URL](http://extractor.herokuapp.com/)
+  * [Find Tweets about a news article](http://tweetrewrite.herokuapp.com/)
+  * [SCOTUS_Servo](https://twitter.com/SCOTUS_servo)
+
+The other, more important, goal is that students leave the course with an idea of how to use technology to approach a beat in a systematic manner.
 
 The course will proceed on two tracks: in class we'll learn about and practice using techniques and tools, and outside class you will work in small groups on projects throughout the semester, with regular updates to the class. Your homework mainly will consist of readings and project work.
 
@@ -38,19 +50,19 @@ The course will proceed on two tracks: in class we'll learn about and practice u
 
 Grading will be based on the following activities.
 
-*Participation - 15 percent*
+*Participation - 10 percent*
 
-This includes timely attendance and your contributions to in-class discussions, as well as regular project updates to the class.
+You are expected to contribute to in-class discussions, as well as group work in class. Journalism isn't a passive activity, and thinking of questions is literally a core skill for any journalist. If you aren't questioning things or exploring things, this might not be the profession for you.
 
-*Weekly assignments - 25%*
+*Assignments and quizzes - 30%*
 
-There will be in-class and the occasional take-home skills-based assignments. These are individual assignments, although you can ask your colleagues for help on work done outside class. Each student's lowest grade from these assignments will be dropped in determining the final grade; you may want to preserve this option for emergencies. The remaining assignments will be averaged for this portion of the final grade.
+There will be in-class and the occasional take-home skills-based assignments and quizzes. These are individual assignments, although you can ask your colleagues for help on work done outside class. There will be 10 quizzes, which means we won't have them every week, but I won't tell you in advance (because it's a _quiz_). Each student's lowest grade from these assignments will be dropped in determining the final grade; you may want to preserve this option for emergencies. The remaining assignments will be averaged for this portion of the final grade.
 
-*Biweekly project assessments - 25%*
+*Biweekly project assessments - 20%*
 
 Beginning on Feb. 10, I will grade your group project's progress every two weeks, based on materials groups will submit on their GitHub page. These include background research, prototype work, code and design.
 
-*Final project - 25%*
+*Final project - 30%*
 
 Your final project, which should be a working, deployed application for the Web (or a Web-enabled service like Twitter), is due at the end of the course. It represents the entirety of your project work.
 
