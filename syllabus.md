@@ -37,7 +37,7 @@ Together, we'll work with some of the tools for building system for reporting: s
 One of the goals is to create and deploy simple tools and systems that could be evaluated and used by journalists at the university and in the professional world. These could range from tools that capture and broadcast key information from government data to simple Web sites that make it easier to compare changes over time or data from different geographic areas. Some examples:
 
   * [Mentions of ProPublica in Congressional Record](http://dwillis.github.io/paper-of-record/?apikey=474754a0d230cc71b31b8bf6d313b70c&notify=false)
-  * [FEC Electronic Filings Dashboard](http://bycoffe.com/fec-dashboard/)
+  * [Itemizer](https://projects.propublica.org/itemizer/)
   * [Extract Text from a URL](http://extractor.herokuapp.com/)
   * [Find Tweets about a news article](http://tweetrewrite.herokuapp.com/)
   * [SCOTUS_Servo](https://twitter.com/SCOTUS_servo)
