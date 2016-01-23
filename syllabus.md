@@ -69,7 +69,7 @@ Your final project, which should be a working, deployed application for the Web 
 
 *Peer assessments - 10%*
 
-Twice during the semester, your fellow group members will be asked to provide an assessment of your contributions to the group's progress. The first evaluation, which will be around the midpoint, will not be graded but you will receive their comments anonymously to help you know how you are doing. The second, due at the end of the course, will be graded. On both occasions, you also will provide a self-evaluation.
+Twice during the semester, your fellow group members will be asked to provide an assessment of your contributions to the group's progress. The first evaluation, which will be around the midpoint, will not be graded but you will receive their comments anonymously to help you know how you are doing. The second, due at the end of the course, will be graded and will account for 10 percent of your grade. On both occasions, you also will provide a self-evaluation.
 
 There is *no final exam* for this course; groups will present their final projects.
 
@@ -81,11 +81,21 @@ Journalism is not a passive activity and requires focus, inquisition and involve
 
 If you are ill and will miss class, let me know before that class, if possible. Unless you have my approval in advance, course work cannot be made up if you do not submit it on time.
 
+#### Late Assignments
+
+Deadlines are important in journalism. Any assignment that is submitted after the deadline will result in an F, which will show up as 55 percent. The deadline for in-class assignments is the end of class, unless otherwise instructed, and for outside assignments, the start of class. Turning in an assignment late, even by one minute, will result in an F — no discussions.
+
+#### Religious Holidays
+
 There will be no major assignments scheduled on religious holidays identified by the university. If you expect to miss a class due to a religious holiday, please notify me in writing before the start of the second class.
+
+#### Students with disabilities:
+
+Students with a specific disability (permanent or temporary, physical or learning) needing special accommodation during the semester should make an appointment to meet with me immediately after the first class. Students may be asked to provide the instructor accommodation forms given to them after testing by the Disability Support Service on campus, 301-405-0813.
 
 #### Inclement weather
 
-  If the university closes due to foul weather (snow, ice, hurricanes, tornadoes, earthquakes) or other emergencies and class must be canceled, students will be advised of assignment adjustments by the instructor. We will likely use our class site to make these notifications and/or conduct a virtual class. Please check the [university's home page](http://umd.edu/) if in doubt about whether or not classes have been canceled on campus.
+  If the university closes due to foul weather (snow, ice, hurricanes, tornadoes, earthquakes) or other emergencies and class must be canceled, I will advise students of assignment adjustments. We will likely use our class site to make these notifications and/or conduct a virtual class. Please check the [university's home page](http://umd.edu/) if in doubt about whether or not classes have been canceled on campus.
 
 #### Etiquette
 
