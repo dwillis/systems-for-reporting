@@ -1,18 +1,19 @@
 # Journalism 479K: Building Systems for Reporting
 ## Spring 2016
+#### Section 0101
 #### Philip Merrill College of Journalism, University of Maryland
-#### Wednesdays, 3:00-5:45 p.m.
+#### Wednesdays, 3:00-5:45 p.m., 2105 Knight Hall
 #### Derek Willis, dwillis@gmail.com
 
 ### Course Information
 
+#### Office Hours & Communication
+
+I plan to be at Knight Hall by 2 p.m. most Wednesdays, so will be available between 2-3 p.m. and then immediately after class, and by appointment. The very best way to reach me is by email; if you have a question, doubt, concern or cat picture to share, email me. I will make every attempt to notify students should our schedule change.
+
 #### About the Instructor
 
 I have worked as a journalist since 1995, when I secured [an internship offer from The Palm Beach Post](http://dwillis.net/image/42295553170) against a dozen rejections from [some](http://dwillis.net/image/42289385513) [of](http://dwillis.net/image/42283024010) [the](http://dwillis.net/image/42282077315) [finest](http://dwillis.net/image/42281381971) news organizations in the country. Somehow, I went on to work for some of them: Congressional Quarterly, [The Center for Public Integrity](http://www.publicintegrity.org/authors/derek-willis), [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2005/05/04/AR2005050402393.html), [The New York Times](http://topics.nytimes.com/top/reference/timestopics/people/w/derek_willis/index.html) and now [ProPublica](https://www.propublica.org/site/author/derek_willis). Although it may appear that I have trouble keeping a job, I mostly have moved to chase new opportunities, especially those involving data and the Internet. This is why I teach: because as many issues as journalism has, it has so many opportunities. My skill is not as a writer or interviewer, but I love finding stories in data, and making that process easier. My Internet claim to fame is that I was named "Wanker of the Day" by liberal blogger Atrios for [Jan. 17, 2006](http://www.eschatonblog.com/2006/01/wanker-of-day_17.html). I am not a [University of Kentucky basketball player](http://www.ukathletics.com/sport/m-baskbl/2015/roster/559d907be4b01c7eefd5ec97), but I do like basketball (and have season tickets to women's basketball). If you'd like somebody else's take on me, [here's one](http://radar.oreilly.com/2012/03/profile-of-the-data-journalist-1.html).
-
-#### Communication
-
-The very best way to reach me is by email; if you have a question, doubt, concern or cat picture to share, email me. I will make every attempt to notify students should our schedule change.
 
 #### Prerequisites
 
@@ -26,15 +27,15 @@ In addition to working on computers in the lab, you will need to have a computer
 
 There are no textbooks for this course. We will have regular readings chosen from professional work, government documents and other sources. You will be expected to read materials before class and to discuss them in class. Post any questions you might have about a reading to the class’s GitHub project as an issue and flag it appropriately so it can be resolved in advance or discussed in class.
 
-### Course Description and Goals
+### Course Description and Goals/Learning Outcomes
 
 This course will teach students how to use data and technology to craft a systematic approach to beat reporting, or to build what you could call a reporter’s exoskeleton. Such a system would make it easier for a journalist to place news in context or spot interesting and potentially newsworthy events.
 
 As an example of this, consider the Supreme Court: each ruling is in itself a potential story and also one part of the life of a changing institution that draws on previous cases and is influenced by judges' past and present actions. Being able to place a ruling in context -- is this out of character for this court, or for any Supreme Court in history? -- is a valuable skill for a journalist. Collecting the information needed to provide this context can also help the journalist produce better questions and ideas. That collection effort is rarely simple, but advances in technology make it possible in a variety of circumstances.
 
-Together, we'll work with some of the tools for building system for reporting: spreadsheets, databases, pattern matching and some programming, including web scraping and building useful but simple sites for reporting. Students will work in small teams to choose a beat, research data sources around it and develop a web-based system to surface useful and unusual aspects of the data. You will be doing some work that qualifies as "computer programming" in this course, but it is not a programming course. This is a course about using computers and software to make you a better journalist.
+Students will work with some of the tools for building system for reporting: spreadsheets, databases, pattern matching and some programming, including web scraping and building useful but simple sites for reporting. Students will work in small teams to choose a beat, research data sources around it and develop a web-based system to surface useful and unusual aspects of the data. You will be doing some work that qualifies as "computer programming" in this course, but it is not a programming course. This is a course about using computers and software to make you a better journalist.
 
-One of the goals is to create and deploy simple tools and systems that could be evaluated and used by journalists at the university and in the professional world. These could range from tools that capture and broadcast key information from government data to simple Web sites that make it easier to compare changes over time or data from different geographic areas. Some examples:
+Students will learn to create and deploy simple tools and systems that could be evaluated and used by journalists at the university and in the professional world. These could range from tools that capture and broadcast key information from government data to simple Web sites that make it easier to compare changes over time or data from different geographic areas. Some examples:
 
   * [Mentions of ProPublica in Congressional Record](http://dwillis.github.io/paper-of-record/?apikey=474754a0d230cc71b31b8bf6d313b70c&notify=false)
   * [Itemizer](https://projects.propublica.org/itemizer/)
