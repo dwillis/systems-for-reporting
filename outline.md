@@ -11,9 +11,9 @@ This outline is just that - an outline, and subject to change depending on our p
 * March 9 - Converting & cleaning data
 * March 16 - NO CLASS (SPRING BREAK)
 * March 23 - The command line and Python
-* March 30 - Guest Speaker: how the Internet works
+* March 30 - Guest Speaker: How the Internet works
 * April 6 - Mapping & Basic Visualizations
 * April 13 - Building Web applications, Part 1
 * April 20 - Building Web applications, Part 2
 * April 27 - Building Web applications, Part 3
-* May 4 - Final Project presentations (May 11 is a reading day, so this is last meeting)
+* May 4 - Final Project presentations (May 11 is a reading day, so this is our last meeting)
