@@ -39,11 +39,12 @@ Students will learn to create and deploy simple tools and systems that could be 
 
   * [Mentions of ProPublica in Congressional Record](http://dwillis.github.io/paper-of-record/?apikey=474754a0d230cc71b31b8bf6d313b70c&notify=false)
   * [Itemizer](https://projects.propublica.org/itemizer/)
+  * [Parse Congressional Record](https://github.com/dwillis/hulse)
   * [Extract Text from a URL](http://extractor.herokuapp.com/)
   * [Find Tweets about a news article](http://tweetrewrite.herokuapp.com/)
   * [SCOTUS_Servo](https://twitter.com/SCOTUS_servo)
 
-The other, more important, goal is that students leave the course with an idea of how to use technology to approach a beat in a systematic manner.
+The other, more important, goal is that students will leave the course with an idea of how to use technology to approach a beat in a systematic, rather than an ad-hoc manner. Students will learn when and how to automate repetitive reporting tasks.
 
 The course will proceed on two tracks: in class we'll learn about and practice using techniques and tools, and outside class you will work in small groups on projects throughout the semester, with regular updates to the class. Your homework mainly will consist of readings and project work.
 
@@ -57,7 +58,7 @@ You are expected to contribute to in-class discussions, as well as group work in
 
 *Assignments and quizzes - 30%*
 
-There will be in-class and the occasional take-home skills-based assignments and quizzes. These are individual assignments, although you can ask your colleagues for help on work done outside class. There will be 10 quizzes, which means we won't have them every week, but I won't tell you in advance (because it's a _quiz_). Each student's lowest grade from these assignments will be dropped in determining the final grade; you may want to preserve this option for emergencies. The remaining assignments will be averaged for this portion of the final grade.
+There will be in-class quizzes and the occasional take-home skills-based assignments. These are individual assignments, although you can ask your colleagues for help on work done outside class. There will be 10 quizzes, which means we won't have them every week, but I won't tell you in advance (because it's a _quiz_). Each student's lowest grade from these assignments will be dropped in determining the final grade; you may want to preserve this option for emergencies. The remaining assignments will be averaged for this portion of the final grade.
 
 *Biweekly project assessments - 20%*
 
