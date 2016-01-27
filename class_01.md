@@ -27,6 +27,19 @@
   * [UMD drug arrests down by 50 percent from 2013 to 2014](http://www.diamondbackonline.com/news/umd-drug-arrests-down-by-percent-from-to/article_6f31081e-6c7c-11e5-adb9-13dd6f336493.html)
   * [Arrest Log](http://www.umpd.umd.edu/stats/arrest_report.cfm?year=2016)
   * [Incident Log](http://www.umpd.umd.edu/stats/incident_logs.cfm)
+  * 
+  
+#### Features
+
+   * Know where crimes are happening - on-campus or off-campus? Map - campus hot-spots
+   * Violent/Non-violent
+   * Academic vs. non-academic building (type)
+   * Time (chart?) groups of times, within days or longer periods like seasons
+   * Offenders - student?
+   * Has there been an arrest?
+   * Categorization of crimes
+   * some of kind user-reporting function
+  
 
 #### Now You Try
 
