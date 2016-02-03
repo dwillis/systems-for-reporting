@@ -26,3 +26,4 @@
 
   * Read [Data State of Mind](https://mjwebster.github.io/DataJ/Other/DataStateofMind/DataStateofMind.pdf)
   * Read [How We Made 'Homan Square'](https://source.opennews.org/en-US/articles/how-we-made-homan-square-portrait/)
+  * Email me an example of unstructured (or semi-structured) text that you could be valuable for reporting. Any beat or topic. What makes it useful? How might it be presented?
