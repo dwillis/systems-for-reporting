@@ -13,7 +13,7 @@
 
 #### Exercise
 
-  * Using this [Senate committee assignment roster](http://www.senate.gov/general/committee_assignments/assignments.htm), can you reorganize a few rows of this in Excel so that it is more useful, so that you can ask specific questions of it? We'll upload it to GitHub, too.
+  * Using this [Senate committee assignment roster](http://www.senate.gov/general/committee_assignments/assignments.htm), can you reorganize a few rows of this in Excel so that it is more useful, so that you can ask specific questions of it? We'll upload it to GitHub, too. Then let's take a look at [this](http://www.senate.gov/general/committee_membership/committee_memberships_SSAF.xml).
   * [Play by play](http://www.umterps.com//ViewContent.dbml?DB_OEM_ID=29700&CONTENT_ID=1632863)
 
 #### Now You Try
