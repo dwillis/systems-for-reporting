@@ -3,6 +3,7 @@
 
   * Quiz!
   * Review of GitHub process
+  * Text Editors
 
 #### Reading
 
