@@ -14,5 +14,5 @@
 
 #### Assignments for Feb. 24
 
-  * Using the [Sunday talk show guest data](https://raw.githubusercontent.com/TheUpshot/Sunday-Shows/master/guests.csv) and a pivot table, calculate how many total male and female guests each show had. Upload the Excel file to your "exercises" repository.
-  * Using [Magic](https://magic.import.io/), take the [Governor's Office Photo Gallery](http://govpics.maryland.gov/pages/Default.aspx) and download CSV and JSON version. Upload both to your exercises repository.
+  * Using the [Sunday talk show guest data](https://raw.githubusercontent.com/TheUpshot/Sunday-Shows/master/guests.csv) and a pivot table, calculate how many total male and female guests each show had. Upload the Excel file (be sure to save it as an Excel file) to your "exercises" repository.
+  * Using [Magic](https://magic.import.io/), take the [Governor's Office Photo Gallery](http://govpics.maryland.gov/pages/Default.aspx) and create CSV and JSON versions that you can download. Upload both files to your exercises repository.
