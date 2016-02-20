@@ -6,8 +6,8 @@ This outline is just that - an outline, and subject to change depending on our p
 * Feb. 3 - Data, structured and unstructured
 * Feb. 10 - Summarizing data using spreadsheets
 * Feb. 17 - Importing and data formats
-* Feb. 24 - Databases and SQL
-* March 2 - Databases and SQL
+* Feb. 24 - Databases and SQL, Finding Data
+* March 2 - Databases and SQL, Storing Data
 * March 9 - The command line and Python
 * March 16 - NO CLASS (SPRING BREAK)
 * March 23 - Converting & cleaning data and Agate
