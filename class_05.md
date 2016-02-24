@@ -5,7 +5,7 @@
 #### Exercises
 
   * Find the data:[Iowa Caucus History](http://data.desmoinesregister.com/iowa-caucus/history/index.php#2012/gop)
-  * Using [the analytics.usa.gov file](https://analytics.usa.gov/data/live/all-pages-realtime.csv), let's try to make our bl.ocks.org page use live Web data instead of a saved CSV version ([here's mine](https://gist.github.com/dwillis/9db6c3fbbc4233ff6de6)
+  * Using [the analytics.usa.gov file](https://analytics.usa.gov/data/live/all-pages-realtime.csv), let's try to make our bl.ocks.org page use live Web data instead of a saved CSV version ([here's mine](https://gist.github.com/dwillis/9db6c3fbbc4233ff6de6))
 
 #### Storing Data
 
