@@ -3,8 +3,6 @@
 
   * [Introducing Treasury.io](https://source.opennews.org/en-US/articles/introducing-treasuryio/)
   * [Pivot Tables](http://www.techonthenet.com/excel/pivottbls/create2011.php)
-  * [Mockingjay](https://source.opennews.org/en-US/articles/mockingjay/)
-  * [Statementer](http://statementer.herokuapp.com/)
 
 #### Exercises
 

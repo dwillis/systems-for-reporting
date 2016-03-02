@@ -11,8 +11,6 @@
 
   * [Firefox SQLite Add-on](https://addons.mozilla.org/en-US/firefox/addon/5817)
   * [SQLite Tutorial](https://github.com/tthibo/SQL-Tutorial/blob/master/NICAR2015/part1_steps.textile)
-  * [Wget](http://www.labnol.org/software/wget-command-examples/28750/) ([Windows](http://gnuwin32.sourceforge.net/packages/wget.htm) and [Mac](http://rudix.org/packages/wget.html))
-  * Let's practice using [Mississippi election results](http://sos.ms.gov/elections/electionresults_aspx/elections_results_2015_countyG.aspx).
 
 #### Assignments for March 2
 
