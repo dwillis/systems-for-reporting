@@ -6,7 +6,7 @@
 
 #### Exercise
 
-  * Data Smells - Fairfax arrests data
+  * Data Smells - [Fairfax arrests data](https://github.com/JOUR479K/agate_exercises)
   * Python tools for retrieving data - agate-remote
 
 #### Assignments
