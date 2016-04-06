@@ -2,7 +2,7 @@
 ### Scraping Exercise
 
   * [MD Attorney General press releases](https://www.oag.state.md.us/Press/index.htm)
-  * Fork [this repository](https://github.com/dwillis/first-web-scraper) to your GitHub account.
+  * Fork [this repository](https://github.com/JOUR479K/first-web-scraper) to your GitHub account.
   * Clone it locally, then `cd first-web-scraper`
   * Next, create a new virtual environment: `mkvirtualenv scraper` or `virtualenv scraper` (if you do the latter, also do `source bin/activate`)
   * `pip install requests`
