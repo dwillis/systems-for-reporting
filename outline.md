@@ -12,8 +12,8 @@ This outline is just that - an outline, and subject to change depending on our p
 * March 16 - NO CLASS (SPRING BREAK)
 * March 23 - Converting & cleaning data and Agate
 * March 30 - Guest Speaker: How the Internet works
-* April 6 - Mapping & Basic Visualizations
-* April 13 - Building Web applications, Part 1
-* April 20 - Building Web applications, Part 2
-* April 27 - Building Web applications, Part 3
-* May 4 - Final Project presentations (May 11 is a reading day, so this is our last meeting)
+* April 6 - Scraping
+* April 13 - Mapping & Basic Visualizations
+* April 20 - Building Web applications, Part 1
+* April 27 - Building Web applications, Part 2
+* May 4 - Building Web applications, Part 3 (May 11 is a reading day, so this is our last meeting)
