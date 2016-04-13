@@ -1,17 +1,21 @@
 
 
+### Quiz!
+
 ### Mapping
 
   * [John Snow's Map](http://maps.grammata.com/imageviewer/SnowMap.html)
-  * [Nebraska Recruiting](http://dataomaha.com/documents/husker-recruiting-changes-shrink-nus-sphere-of-influence#husker-recruiting-changes-shrink-nu-s-sphere-of-influence)
   * [Mapping Homicides](http://blog.apps.chicagotribune.com/2010/03/04/quickly-visualize-and-map-a-data-set-using-google-fusion-tables/)
 
-### PDFs
+### Reading
 
-  * [Tabula](http://tabula.technology/)
-  * [IRPA](https://www.irpa.umd.edu/)
-  * [PDF 1](http://www.umpd.umd.edu/stats/ucr/UCR_10_Years_Data.pdf), [PDF 2](https://www.irpa.umd.edu/Publications/Enroll/ebm-201601.pdf)
+  * [The bullets stopped](http://dataomaha.com/bigstory/story/71/news/the-bullets-stopped)
 
-### Simple Graphics
+### Projects
 
-  * [ChartBuilder](https://quartz.github.io/Chartbuilder/)
+  * The blockers
+
+### Assignments
+
+  * Mapping: Import into Excel the Fairfax Arrests file (which is in your `agate_exercises` directory, or [here](https://github.com/JOUR479K/agate_exercises/blob/master/arrest.csv)), and upload it to Fusion Tables. Make sure that the Address field is a "Location" field (use the Edit -> Change Columns drop down menu to check) and then geocode the file using that Address field. Visualize the results on a map and then click the "Share" button at the top right and enter my email (dwillis@umd.edu) in the Add People box.
+  * Final Projects: Be prepared to give an update in class of your work on your blockers.
