@@ -1,6 +1,4 @@
 
-### Quiz
-
 ### Exercise
 
   * [A Botmaking Primer](https://source.opennews.org/en-US/articles/botmaking-primer/)
@@ -13,3 +11,7 @@
 ### Projects
 
   * Team updates
+
+### Assignments
+
+  * TBD
