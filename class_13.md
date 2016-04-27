@@ -17,7 +17,7 @@
 
 ### Evaluations
 
-  * Do them
+  * [Do them](https://www.courseevalum.umd.edu/)
 
 ### Assignments
 
