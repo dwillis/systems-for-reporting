@@ -6,6 +6,13 @@
 ### Let's Build a Web App
 
   * [First News App](http://first-news-app.readthedocs.org/en/latest/)
+  * Setup in Terminal
+    * `cd YOUR-DESKTOP-FOLDER`
+    * `mkdir first-news-app`
+    * `virtualenv .` (OSX) or `c:\Python27\Scripts\virtualenv.exe .` (Windows)
+    * `source bin/activate` (OSX) or `Scripts\activate` (Windows)
+    * `git init repo`
+    * `pip install Flask`
 
 ### Evaluations
 
