@@ -13,6 +13,7 @@
     * `virtualenv .` (OSX) or `c:\Python27\Scripts\virtualenv.exe .` (Windows)
     * `source bin/activate` (OSX) or `Scripts\activate` (Windows)
     * `git init repo`
+    * `cd repo`
     * `pip install Flask`
     * Pick up the instructions [here](http://first-news-app.readthedocs.org/en/latest/#act-2-hello-flask)
 
