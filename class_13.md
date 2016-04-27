@@ -13,6 +13,7 @@
     * `source bin/activate` (OSX) or `Scripts\activate` (Windows)
     * `git init repo`
     * `pip install Flask`
+    * Pick up the instructions [here](http://first-news-app.readthedocs.org/en/latest/#act-2-hello-flask)
 
 ### Evaluations
 
