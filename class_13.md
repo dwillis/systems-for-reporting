@@ -9,6 +9,7 @@
   * Setup in Terminal
     * `cd YOUR-DESKTOP-FOLDER`
     * `mkdir first-news-app`
+    * `cd first-news-app`
     * `virtualenv .` (OSX) or `c:\Python27\Scripts\virtualenv.exe .` (Windows)
     * `source bin/activate` (OSX) or `Scripts\activate` (Windows)
     * `git init repo`
