@@ -1,2 +1,2 @@
-# systems-for-reporting
-Course materials for JOUR479K, Building Systems for Reporting
+# Systems for Reporting
+Course materials for SMPA 3193, Systems for Reporting
