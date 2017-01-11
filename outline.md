@@ -15,7 +15,7 @@ This outline is just that - an outline, and subject to change depending on our p
 * Feb. 21 - More Python & CSVkit
 * Feb. 23 - Converting & cleaning data and Agate
 * Feb. 28 - Converting & cleaning data and Agate
-* March 2 - NO CLASS - NICAR CONFERENCE
+* March 2 - NICAR CONFERENCE - Guest Speaker TBD
 * March 7 - Databases and SQL
 * March 9 - More SQL
 * March 14 - NO CLASS (SPRING BREAK)
@@ -25,10 +25,10 @@ This outline is just that - an outline, and subject to change depending on our p
 * March 28 - Mapping
 * March 30 - Mapping
 * April 4 - Building Web applications, Part 1
-* April 6 - In-class project time
-* April 11 - Building Web applications, Part 2
-* April 13 - In-class project time
-* April 18 - Building Web applications, Part 3
+* April 6 - Building Web applications, Part 2
+* April 11 - Guest Speaker: How the Internet Works
+* April 13 - Guest Speaker: TBD
+* April 18 - In-class project time
 * April 20 - In-class project time
 * April 25 - Presentations
 * April 27 - One Last Time
