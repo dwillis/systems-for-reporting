@@ -18,35 +18,8 @@
   * In groups
   * Moving toward automation
 
-#### Reading
+#### Assignments for Jan. 19
 
-  * [A fundamental way newspaper sites need to change](http://www.holovaty.com/writing/fundamental-change/)
-
-#### Exercise
-
-  * [UMD drug arrests down by 50 percent from 2013 to 2014](http://www.diamondbackonline.com/news/umd-drug-arrests-down-by-percent-from-to/article_6f31081e-6c7c-11e5-adb9-13dd6f336493.html)
-  * [Arrest Log](http://www.umpd.umd.edu/stats/arrest_report.cfm?year=2016)
-  * [Incident Log](http://www.umpd.umd.edu/stats/incident_logs.cfm)
-  * 
-  
-#### Features
-
-   * Know where crimes are happening - on-campus or off-campus? Map - campus hot-spots
-   * Violent/Non-violent
-   * Academic vs. non-academic building (type)
-   * Time (chart?) groups of times, within days or longer periods like seasons
-   * Offenders - student?
-   * Has there been an arrest?
-   * Categorization of crimes
-   * some of kind user-reporting function
-  
-
-#### Now You Try
-
-  * Describe a system that would enable reporters to understand campus crime incidents and trends better. What should it 'know'? What should it do? How should it store information? What questions could you ask of it?
-
-#### Assignments for Feb. 3
-
-  * Read [Story hunting in birth, death data](http://www.anthonydebarros.com/2010/09/07/data-analysis-births-deaths/)
-  * Read [How Netflix Reverse Engineered Hollywood](http://www.theatlantic.com/technology/archive/2014/01/how-netflix-reverse-engineered-hollywood/282679/)
-  * Make sure you have administrative rights on your laptop so you can install software. Install [Git](https://git-scm.com/), [Python](https://www.python.org/downloads/) (only if you have a Windows laptop) and sign up for an account at [Heroku](https://www.heroku.com/).
+  * Read: [A fundamental way newspaper sites need to change](http://www.holovaty.com/writing/fundamental-change/) & be prepared to discuss.
+  * Spreadsheet: Take 3 professors from [here](https://smpa.gwu.edu/faculty-directory) and, using the information on their detail pages, make a spreadsheet in which each row is one faculty member and the columns are whatever information you think is useful or helpful to know. Try to have one piece of information per column. There's no _right_ answer to this; I just want to see how you approach it. Email the spreadsheet (or provide a link if it's a Google Sheets file) to me before 11:10 a.m. on 1/19.
+  * Make sure you have administrative rights on your laptop so you can install software. Install [Git](https://git-scm.com/), [Python](https://www.python.org/downloads/) (only if you have a Windows laptop - Mac OS comes with it) and sign up for a free account at [PythonAnywhere](https://www.pythonanywhere.com/).
