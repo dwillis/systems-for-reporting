@@ -18,6 +18,12 @@
   * In groups
   * Moving toward automation
 
+#### Things We Looked At
+
+  * [FEC Itemizer](https://projects.propublica.org/itemizer/)
+  * [John Snow's Map](https://www1.udel.edu/johnmack/frec682/cholera/)
+  * [The Terminal](http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line) (on the Mac)
+
 #### Assignments for Jan. 19
 
   * Read: [A fundamental way newspaper sites need to change](http://www.holovaty.com/writing/fundamental-change/) & be prepared to discuss.
