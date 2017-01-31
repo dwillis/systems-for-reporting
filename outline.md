@@ -6,18 +6,18 @@ This outline is just that - an outline, and subject to change depending on our p
 * Jan. 19 - Data, structured and unstructured
 * Jan. 24 - Summarizing data using spreadsheets
 * Jan. 26 - Summarizing data using spreadsheets
-* Jan. 31 - Finding and Storing Data
+* Jan. 31 - Finding Data
 * Feb. 2 - Importing and data formats
-* Feb. 7 - Putting Data on the Web
-* Feb. 9 - Putting Data on the Web
+* Feb. 7 - Databases and SQL
+* Feb. 9 - More SQL
 * Feb. 14 - The command line and Python
 * Feb. 16 - The command line and Python
 * Feb. 21 - More Python & CSVkit
 * Feb. 23 - Converting & cleaning data and Agate
 * Feb. 28 - Converting & cleaning data and Agate
 * March 2 - NICAR CONFERENCE - Guest Speaker TBD
-* March 7 - Databases and SQL
-* March 9 - More SQL
+* March 7 - Putting Data on the Web
+* March 9 - Putting Data on the Web
 * March 14 - NO CLASS (SPRING BREAK)
 * March 16 - NO CLASS (SPRING BREAK)
 * March 21 - Scraping
