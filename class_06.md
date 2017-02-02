@@ -7,6 +7,9 @@
 
   * Importing Fixed Width files. [Fairfax arrests](http://www.fairfaxcounty.gov/police/crime/arrest.txt)
 
+
+#### Assignments for Feb. 7
+
   * Read [How Netflix Reverse Engineered Hollywood](http://www.theatlantic.com/technology/archive/2014/01/how-netflix-reverse-engineered-hollywood/282679/)
 
   * Excel: Download [this CSV of West Virginia 2012 general election results](http://services.sos.wv.gov/apps/elections/results/readfile.aspx?eid=13&type=StateCountyTotals&format=csv) and copy OFFICIAL county-level results (the file contains both official and unofficial results, look for a column that indicated that) for President Obama and Joe Manchin (U.S. Senate race) into a separate sheet, so that each county is a row and the columns contain the vote totals and percentages for both candidates (you'll have columns with names like County, ObamaVotes, TotalVotes and ObamaPct, and ManchinVotes, TotalSenateVotes and ManchinPct). Be sure to save your file as an XLS file, not a CSV, then answer these questions:
