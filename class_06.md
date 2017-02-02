@@ -1,5 +1,3 @@
-
-
 #### Discussion
 
   * [Understanding Households and Relationships in Census Data](https://source.opennews.org/en-US/learning/understanding-households-and-relationships-census-/)
@@ -8,8 +6,6 @@
 #### More Finding Data
 
   * Importing Fixed Width files. [Fairfax arrests](http://www.fairfaxcounty.gov/police/crime/arrest.txt)
-
-#### Assignments for Feb. 7
 
   * Read [How Netflix Reverse Engineered Hollywood](http://www.theatlantic.com/technology/archive/2014/01/how-netflix-reverse-engineered-hollywood/282679/)
 
