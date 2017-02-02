@@ -1,21 +1,13 @@
-
-
-#### Introduction
-
-  * Quiz!
-
 #### Discussion
 
-  * [Mockingjay](https://source.opennews.org/en-US/articles/mockingjay/)
+  * [Understanding Households and Relationships in Census Data](https://source.opennews.org/en-US/learning/understanding-households-and-relationships-census-/)
+  * [Census Reporter](https://censusreporter.org/)
 
 #### Exercises
 
-  * [SQL summary walkthrough](https://github.com/tthibo/SQL-Tutorial/tree/master/NICAR2015)
-  * [Wget](http://www.labnol.org/software/wget-command-examples/28750/) ([Windows](http://gnuwin32.sourceforge.net/packages/wget.htm) and [Mac](http://rudix.org/packages/wget.html))
-  * Let's practice using [Mississippi election results](http://sos.ms.gov/elections/electionresults_aspx/elections_results_2015_countyG.aspx).
+  * Fixed width imports in Excel using [Fairfax arrests](http://www.fairfaxcounty.gov/police/crime/arrest.txt)
+  * Pulling data from the web: Using [GW press releases](https://mediarelations.gwu.edu/news-release-archives) and [Import.io's Magic](https://magic.import.io/examples) (you'll need to sign up for a free account). Let's turn that list of press releases into CSV and JSON data (first using [Mr. Data Converter](https://shancarter.github.io/mr-data-converter/)).
 
-#### Assignments for March 9
+#### Assignments for Feb. 9
 
-  * Read: [Statistically Sound Data Journalism](https://source.opennews.org/en-US/learning/statistically-sound-data-journalism/)
-  * Project work - Narrow down your group's ideas into the 2 best and flesh them out: what data is available? What is the minimum viable thing you could envision building? If you could compare it to an existing app or site, what would that be? Write the answers to these and any other issues you consider and put them in your team's repository.
-  * Reading on Python: follow along on your laptop [this Python tutorial](http://opentechschool.github.io/python-beginners/en/index.html), starting with `Getting Started` and going through `Loops`.
+  * TBA this afternoon
