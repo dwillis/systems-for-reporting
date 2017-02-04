@@ -1,18 +1,12 @@
-#### Introduction
-
-  * Quiz!
-
 #### Discussion
 
-  * [Free flights on the company plane](http://ig.ft.com/sites/business-jets/)
+  * [How Netflix Reverse Engineered Hollywood](http://www.theatlantic.com/technology/archive/2014/01/how-netflix-reverse-engineered-hollywood/282679/)
 
-#### Exercises
+#### Databases
 
-  * [Python exercise](https://github.com/JOUR479K/python)
-  * [Command Line Murder Mystery](https://github.com/veltman/clmystery)
+  * [Firefox SQLite Add-on](https://addons.mozilla.org/en-US/firefox/addon/5817)
+  * [SQLite Tutorial](https://github.com/tthibo/SQL-Tutorial/blob/master/NICAR2015/part1_steps.textile)
 
+#### Assignments for Feb. 9
 
-#### Assignments for March 23
-
-  * Final projects - Pick your best idea and provide a description of the one thing your project will do. Using [Google Docs' Drawing](https://support.google.com/docs/answer/179740?hl=en), create a workflow of what the user interaction will look like. It might look something like the examples [here](https://signalvnoise.com/posts/1926-a-shorthand-for-designing-ui-flows), with boxes and arrows. Don't worry about making it look super professional. Put the link to the drawing in your description.
-  * Python - [Learn Python the Hard Way](http://learnpythonthehardway.org/book/ex0.html) - continue through [Exercise 2](http://learnpythonthehardway.org/book/ex2.html). Save the `ex1.py` and `ex2.py` files in your exercises repository and push them to GitHub.
+  * Resume Part 1 of the Tutorial at [this point](https://github.com/tthibo/SQL-Tutorial/blob/master/tutorial_files/part1.textile#importing-data-from-a-file) and continue through [Part 2 of the SQLite Tutorial](https://github.com/tthibo/SQL-Tutorial/blob/master/tutorial_files/part2.textile). Upload your `test.sqlite` file to GitHub.
