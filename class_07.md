@@ -9,4 +9,4 @@
 
 #### Assignments for Feb. 9
 
-  * Resume Part 1 of the Tutorial at [this point](https://github.com/tthibo/SQL-Tutorial/blob/master/tutorial_files/part1.textile#importing-data-from-a-file) and continue through [Part 2 of the SQLite Tutorial](https://github.com/tthibo/SQL-Tutorial/blob/master/tutorial_files/part2.textile). Upload your `test.sqlite` file to GitHub.
+  * Resume Part 1 of the Tutorial at [this point](https://github.com/tthibo/SQL-Tutorial/blob/master/tutorial_files/part1.textile#importing-data-from-a-file) and continue through [Part 2 of the SQLite Tutorial](https://github.com/tthibo/SQL-Tutorial/blob/master/tutorial_files/part2.textile). Upload your `campaign_finance.sqlite` file to GitHub.
