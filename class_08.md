@@ -9,7 +9,7 @@
 
   * Reading: [Introducing Treasury.io](https://source.opennews.org/articles/introducing-treasuryio/)
 
-  * SQL: Using your existing campaign_finance.sqlite file, download this CSV file of expenditures by the Senate campaign of Josh Mandel. Import it, creating a table called mandel. Look at the CSV file in Excel before you define the fields in SQLite – be sure to define the zip field as VARCHAR, not INTEGER. Define the amount, month, day and year fields as INTEGER.
+  * SQL: Using your existing campaign_finance.sqlite file, download [this CSV file of expenditures](https://www.strongspace.com/shared/k2avxajk0l) by the Senate campaign of Josh Mandel. Import it, creating a table called mandel. Look at the CSV file in Excel before you define the fields in SQLite – be sure to define the zip field as VARCHAR, not INTEGER. Define the amount, month, day and year fields as INTEGER.
 
   Once you've done that, write queries to do the following, using wildcards (but not always) and GROUP BY:
 
