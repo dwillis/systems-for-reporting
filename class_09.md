@@ -20,3 +20,4 @@
 
   * Read [Introducing Agate](https://source.opennews.org/articles/introducing-agate/)
   * Read [Scooped by Code](http://www.niemanlab.org/2013/12/scooped-by-code/)
+  * Send me, by email, 2 or 3 topics/subjects you're interested in with a data component (or a possible one). 
