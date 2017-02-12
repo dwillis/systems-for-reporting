@@ -10,7 +10,7 @@ This outline is just that - an outline, and subject to change depending on our p
 * Feb. 2 - Importing and data formats
 * Feb. 7 - Databases and SQL
 * Feb. 9 - More SQL
-* Feb. 14 - More SQL
+* Feb. 14 - The command line and Python
 * Feb. 16 - The command line and Python
 * Feb. 21 - The command line and Python
 * Feb. 23 - Converting & cleaning data and Agate
