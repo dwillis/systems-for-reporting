@@ -1,6 +1,21 @@
 
+### Python and the command line
+
+  * Log into [PythonAnywhere](https://www.pythonanywhere.com) and start a bash shell.
+  * [Getting Started](https://ireapps.github.io/pycar/pycar_intro.html#/)
+  * [An Informal Introduction to Python](https://docs.python.org/2/tutorial/introduction.html)
+  * Create exercises repository on GitHub & clone into PythonAnywhere
+
 ### Assignments
 
-  * Python: Follow along with Exercises [11](http://learnpythonthehardway.org/book/ex11.html) through 15 in Learn Python the Hard Way. Make files called `ex11.py` through `ex15.py` and upload them to your Exercises repository.
-  * Read [Web Scraping: A Journalist's Guide](http://gijn.org/2015/08/11/web-scraping-a-journalists-guide/)
-  * Final Projects: Make a sample of what your data will look like. Don't worry if you have to do it manually at this point; just have a CSV (or JSON) file(s) of the data that you'll be working with. You should upload it to your team's Github.
+  * Python/Command line: In your PythonAnywhere bash shell in the exercises directory, type the following commands:
+
+      * `pip install virtualenvwrapper`
+      * `mkvirtualenv exercises`
+      * `pip install jupyter`
+      * `pip install agate`
+
+      Then share your console with my email address using the "Share with others" button. You can close your browser tab now, but don't kill the console listed under "Your consoles" on the "Consoles" tab of PythonAnywhere.
+
+  * Read [Introducing Agate](https://source.opennews.org/articles/introducing-agate/)
+  * Read [Scooped by Code](http://www.niemanlab.org/2013/12/scooped-by-code/)
