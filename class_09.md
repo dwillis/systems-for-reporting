@@ -8,12 +8,13 @@
 
 ### Assignments
 
-  * Python/Command line: In your PythonAnywhere bash shell in the exercises directory, type the following commands:
+  * Python/Command line: In your PythonAnywhere bash shell in the exercises directory, copy and run the following commands:
 
       * `pip install virtualenvwrapper`
       * `mkvirtualenv exercises`
       * `pip install jupyter`
       * `pip install agate`
+      * `pip install urllib3[secure] pyopenssl ndg-httpsclient pyasn1 requests`
 
       Then share your console with my email address using the "Share with others" button. You can close your browser tab now, but don't kill the console listed under "Your consoles" on the "Consoles" tab of PythonAnywhere.
 
