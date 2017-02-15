@@ -1,19 +1,51 @@
 
-### Scraping Exercise
+#### Working with local CSV file
 
-  * [MD Attorney General press releases](https://www.oag.state.md.us/Press/index.htm)
-  * Fork [this repository](https://github.com/JOUR479K/first-web-scraper) to your GitHub account.
-  * Clone it locally, then `cd first-web-scraper`
-  * Next, create a new virtual environment: `mkvirtualenv scraper` or `virtualenv scraper` (if you do the latter, also do `source scraper/bin/activate`)
-  * `pip install requests`
-  * `pip install BeautifulSoup`
+  1. Download [this CSV file](https://raw.githubusercontent.com/dwillis/smpa3193-exercises/master/baby_names_nyc.csv) to your class folder inside your Desktop folder.
+  2. Open Terminal and start up a Python session by typing `python`
+  3. Let's import the tool we'll need to read in a CSV file: Python's [csv module](https://docs.python.org/2/library/csv.html), open the CSV file and then print out each row:
+  ```python
+  import csv
+  file = open('baby_names_nyc.csv')
+  csv_data = csv.reader(file)
+  for row in csv_data:
+    print row
+  ```
 
-### Reading
+  4. Try the last two lines again.
+  5. Let's loop through again, printing out just those rows where the name is "IRENE"
 
-  * [Public Info Doesn't Always Want to be Free](https://source.opennews.org/en-US/learning/public-info-doesnt-always-want-be-free/)
+#### Local Setup
 
-### Assignments
+Exit Python using Control-D and in the same directory, do the following commands from the command-line:
 
-  * Scraping: using the `first-web-scraper` repository we worked on in class, replace the Maryland url with [this one](http://www.tdcj.state.tx.us/death_row/dr_scheduled_executions.html) and extract the upcoming Texas executions into a new CSV file named `executions.csv` (you'll need to replace the filename in the `scrape.py` file and change the headers, too, and you'll have to find the right HTML table to pull from).
-  * Final Projects: Tell me your problems. Put a file called `problems.md` in your team's repository with any problems you've run into, in order of importance, and what you've tried to resolve them. Be prepared to discuss the top 2-3 in class.
-  * Reading: [To Scrape, Perchance To Tweet](https://source.opennews.org/en-US/articles/scrape-perchance-tweet/)
+  * `pip install virtualenvwrapper`
+  * `mkvirtualenv exercises`
+  * `pip install urllib3[secure] pyopenssl ndg-httpsclient pyasn1 requests`
+
+#### Working with an online CSV file
+
+  Exit the Python session using Control-D and let's setup what we need to grab a file from the Web, including the library that handles [making web requests](http://docs.python-requests.org/en/master/). Copy the following command:
+
+  `pip install urllib3[secure] pyopenssl ndg-httpsclient pyasn1 requests`
+
+  Then type `python` to start a new session:
+
+  ```python
+  import csv
+  import requests
+  url = "https://raw.githubusercontent.com/dwillis/smpa3193-exercises/master/baby_names_nyc.csv"
+  r = requests.get(url)
+  csv_data = csv.reader(r.text)
+  for row in csv_data:
+    print row
+  ```
+
+  Now let's do it again, trying to isolate on "ELIJAH".
+
+#### Agate Walkthrough
+
+
+#### Assignments for Feb. 21
+
+  * Described [here](https://github.com/SMPA3193/python)

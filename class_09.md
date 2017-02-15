@@ -6,6 +6,7 @@
   * [An Informal Introduction to Python](https://docs.python.org/2/tutorial/introduction.html)
   * Create exercises repository on GitHub & clone into PythonAnywhere
 
+
 ### Assignments
 
   * Python/Command line: In your PythonAnywhere bash shell in the exercises directory, copy and run the following commands:
@@ -20,4 +21,4 @@
 
   * Read [Introducing Agate](https://source.opennews.org/articles/introducing-agate/)
   * Read [Scooped by Code](http://www.niemanlab.org/2013/12/scooped-by-code/)
-  * Send me, by email, 2 or 3 topics/subjects you're interested in with a data component (or a possible one). 
+  * Send me, by email, 2 or 3 topics/subjects you're interested in with a data component (or a possible one).
