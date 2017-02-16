@@ -1,51 +1,13 @@
 
-#### Working with local CSV file
+### Reading CSV files
 
-  1. Download [this CSV file](https://raw.githubusercontent.com/dwillis/smpa3193-exercises/master/baby_names_nyc.csv) to your class folder inside your Desktop folder.
-  2. Open Terminal and start up a Python session by typing `python`
-  3. Let's import the tool we'll need to read in a CSV file: Python's [csv module](https://docs.python.org/2/library/csv.html), open the CSV file and then print out each row:
-  ```python
-  import csv
-  file = open('baby_names_nyc.csv')
-  csv_data = csv.reader(file)
-  for row in csv_data:
-    print row
-  ```
+  * Start [here](https://github.com/dwillis/smpa3193-exercises/blob/master/01-reading-csv-files.md)
 
-  4. Try the last two lines again.
-  5. Let's loop through again, printing out just those rows where the name is "IRENE"
+### Agate Walkthrough
 
-#### Local Setup
+  * Start [here](https://github.com/wireservice/agate/blob/master/tutorial.ipynb)
 
-Exit Python using Control-D and in the same directory, do the following commands from the command-line:
+### Assignments for Feb. 21
 
-  * `pip install virtualenvwrapper`
-  * `mkvirtualenv exercises`
-  * `pip install urllib3[secure] pyopenssl ndg-httpsclient pyasn1 requests`
-
-#### Working with an online CSV file
-
-  Exit the Python session using Control-D and let's setup what we need to grab a file from the Web, including the library that handles [making web requests](http://docs.python-requests.org/en/master/). Copy the following command:
-
-  `pip install urllib3[secure] pyopenssl ndg-httpsclient pyasn1 requests`
-
-  Then type `python` to start a new session:
-
-  ```python
-  import csv
-  import requests
-  url = "https://raw.githubusercontent.com/dwillis/smpa3193-exercises/master/baby_names_nyc.csv"
-  r = requests.get(url)
-  csv_data = csv.reader(r.text)
-  for row in csv_data:
-    print row
-  ```
-
-  Now let's do it again, trying to isolate on "ELIJAH".
-
-#### Agate Walkthrough
-
-
-#### Assignments for Feb. 21
-
-  * Described [here](https://github.com/SMPA3193/python)
+  * Described [here](https://github.com/dwillis/smpa3193-exercises/blob/master/02-agate-exercise.md)
+  * Project ideas: Remember the ideas you sent me? Try to think of a potential data source about one or both of them that you could analyze, and email that to me along with what you think the focus could be. For example: "I really like cricket, and I was thinking about using the [Cricsheet](http://cricsheet.org/) data to see which batting partnership has been the most productive in Test matches."
