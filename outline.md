@@ -16,8 +16,8 @@ This outline is just that - an outline, and subject to change depending on our p
 * Feb. 23 - Converting & cleaning data and Agate
 * Feb. 28 - Converting & cleaning data and Agate
 * March 2 - NICAR CONFERENCE - Guest Speaker TBD
-* March 7 - Putting Data on the Web
-* March 9 - Putting Data on the Web
+* March 7 - Let's make a bot
+* March 9 - Let's make a bot
 * March 14 - NO CLASS (SPRING BREAK)
 * March 16 - NO CLASS (SPRING BREAK)
 * March 21 - Scraping
@@ -27,7 +27,7 @@ This outline is just that - an outline, and subject to change depending on our p
 * April 4 - Building Web applications, Part 1
 * April 6 - Building Web applications, Part 2
 * April 11 - Guest Speaker: How the Internet Works
-* April 13 - Guest Speaker: TBD
+* April 13 - Guest Speaker: Rachel Shorey
 * April 18 - In-class project time
 * April 20 - In-class project time
 * April 25 - Presentations
