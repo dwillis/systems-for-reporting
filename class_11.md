@@ -1,18 +1,9 @@
+### Agate
 
+  * [https://github.com/wireservice/agate](https://github.com/wireservice/agate)
+  * [https://github.com/dwillis/smpa3193-exercises/blob/master/03-agate-exercise.md](https://github.com/dwillis/smpa3193-exercises/blob/master/03-agate-exercise.md)
 
-### Quiz!
+### Assignments for Feb. 28
 
-### Mapping
-
-  * [John Snow's Map](http://maps.grammata.com/imageviewer/SnowMap.html)
-  * [Mapping Homicides](http://blog.apps.chicagotribune.com/2010/03/04/quickly-visualize-and-map-a-data-set-using-google-fusion-tables/)
-
-### Projects
-
-  * The blockers
-
-### Assignments
-
-  * Mapping: Import into Excel the Fairfax Arrests file (which is in your `agate_exercises` directory, or [here](https://github.com/JOUR479K/agate_exercises/blob/master/arrest.csv)), and upload it to Fusion Tables. Make sure that the Address field is a "Location" field (use the Edit -> Change Columns drop down menu to check) and then geocode the file using that Address field. Visualize the results on a map and then click the "Share" button at the top right and enter my email (dwillis@gmail.edu) in the Add People box.
-  * Reading: [Why We Built The Record](https://source.opennews.org/en-US/articles/why-we-built-record/)
-  * Final Projects: Be prepared to give an update in class of your work on your blockers.
+  * Python: Finish [Agate exercise](https://github.com/dwillis/smpa3193-exercises/blob/master/03-agate-exercise.md), saving your jupyter notebook and pushing it to GitHub. The [Agate cookbook](http://agate.readthedocs.io/en/1.5.5/cookbook.html) might help.
+  * Reading: [How Bernie Sanders Raises All That Money](http://www.buzzfeed.com/johntemplon/how-bernie-sanders-raises-all-that-money) and the [code](https://github.com/BuzzFeedNews/2016-04-bernie-sanders-donors) behind the analysis. Check out the [Python notebook](https://github.com/BuzzFeedNews/2016-04-bernie-sanders-donors/tree/master/notebooks), too.
