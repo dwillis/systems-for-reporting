@@ -1,18 +1,17 @@
 
-### Exercise
 
-  * [A Botmaking Primer](https://source.opennews.org/en-US/articles/botmaking-primer/)
-  * [Let's Build a TwitterBot](https://github.com/JOUR479K/twitterbot)
+### Buzzfeed on Bernie
 
-### Reading
 
-  * [The bullets stopped](http://dataomaha.com/bigstory/story/71/news/the-bullets-stopped)
+### Agate Exercise
 
-### Projects
+  * [County population estimates](https://github.com/dwillis/smpa3193-exercises/blob/master/04-agate-exercise.md)
 
-  * Team updates
+### Assignment for March 2
 
-### Assignments
+  * Background on [Adam Harris](https://www.clippings.me/adamharris), our guest speaker who will talk about using social platforms for reporting.
 
-  * No bots, but PDFs: take [this file](http://files.peacecorps.gov/images/news/releases/schools2016.pdf) of top Peace Corps volunteer-producing schools and, using [Tabula](http://tabula.technology/) (installing it if you haven't already), draw boxes around the schools, their rankings and number of alumni volunteers so that you can create a single CSV file with the following headers: category (values of large, medium or small), rank, college, volunteers. Save that CSV file in  your exercises repository and push it to Github. Need help? Check the "How to Use Tabula" section [here](http://tabula.technology/). Then, send me by email a story idea based on this data, one in which the data plays a big part.
-  * Reading: [How Bernie Sanders Raises All That Money](http://www.buzzfeed.com/johntemplon/how-bernie-sanders-raises-all-that-money#.ukJL5lg729)
+### Assignments for March 7
+
+  * Picking up with the county population estimates file above, finish the exercise and commit it to Github.
+  * Meet with your group to talk about potential ideas for your project. Remember, it could be a bot like CongressEdits or Mockingjay, or it could be a process for automating the analysis of data like we've done with Agate & Jupyter notebook. Or it could be something else entirely, as long as it is a system of some kind that automates a task. Each group will be listed [https://github.com/orgs/smpa3193-projects/teams](here). Create a repository in your group and call it `ideas`, and add a text file summarizing your discussions so far.
