@@ -1,26 +1,12 @@
 
-### Quiz!
+### Quiz?
 
-### Peace Corps discussion
+### Exercise
 
-### Let's Build a Web App
+  * [A Botmaking Primer](https://source.opennews.org/en-US/articles/botmaking-primer/)
+  * [Let's Build a TwitterBot](https://github.com/SMPA3193/twitterbot)
 
-  * [First News App](http://first-news-app.readthedocs.org/en/latest/)
-  * Setup in Terminal
-    * `cd YOUR-DESKTOP-FOLDER`
-    * `mkdir first-news-app`
-    * `cd first-news-app`
-    * `virtualenv .` (OSX) or `c:\Python27\Scripts\virtualenv.exe .` (Windows)
-    * `source bin/activate` (OSX) or `Scripts\activate` (Windows)
-    * `git init repo`
-    * `cd repo`
-    * `pip install Flask`
-    * Pick up the instructions [here](http://first-news-app.readthedocs.org/en/latest/#act-2-hello-flask)
+### Assignment for March 9
 
-### Evaluations
-
-  * [Do them](https://www.courseevalum.umd.edu/)
-
-### Assignments
-
-  * Final Projects: All teams will present their work next week in class, but teams may choose to submit their final projects anytime between May 4-11. Teams should push the entirety of their work - any notes, drawings, scripts, data or other files - to their GitHub accounts by 3 p.m. on May 11. Late assignments will be reduced by a full letter grade. Also due by 3 p.m. on May 11 are the self and peer evaluations. I will email you those documents, which need to be emailed back to me.
+  * Adapt the `tweetbot2.py` script to search for a term or phrase you want. Run the script from the command line and commit the edited file and the data.csv file to your repository.
+  * Read: [Graphing When Your Facebook Friends Are Awake](https://defaultnamehere.tumblr.com/post/139351766005/graphing-when-your-facebook-friends-are-awake)
