@@ -1,26 +1,19 @@
 
-### Quiz!
+### Scraping!
 
-### Peace Corps discussion
+  * Fork [this repository](https://github.com/SMPA3193/first-web-scraper) to your GitHub account.
+  * Clone it locally, then `cd first-web-scraper`
+  * Next, create a new virtual environment: `mkvirtualenv scraper`
+  * `pip install requests`
+  * `pip install BeautifulSoup`
 
-### Let's Build a Web App
+### Reading
 
-  * [First News App](http://first-news-app.readthedocs.org/en/latest/)
-  * Setup in Terminal
-    * `cd YOUR-DESKTOP-FOLDER`
-    * `mkdir first-news-app`
-    * `cd first-news-app`
-    * `virtualenv .` (OSX) or `c:\Python27\Scripts\virtualenv.exe .` (Windows)
-    * `source bin/activate` (OSX) or `Scripts\activate` (Windows)
-    * `git init repo`
-    * `cd repo`
-    * `pip install Flask`
-    * Pick up the instructions [here](http://first-news-app.readthedocs.org/en/latest/#act-2-hello-flask)
+  * [Getting Data from the Web](http://datajournalismhandbook.org/1.0/en/getting_data_3.html)
 
-### Evaluations
-
-  * [Do them](https://www.courseevalum.umd.edu/)
 
 ### Assignments
 
-  * Final Projects: All teams will present their work next week in class, but teams may choose to submit their final projects anytime between May 4-11. Teams should push the entirety of their work - any notes, drawings, scripts, data or other files - to their GitHub accounts by 3 p.m. on May 11. Late assignments will be reduced by a full letter grade. Also due by 3 p.m. on May 11 are the self and peer evaluations. I will email you those documents, which need to be emailed back to me.
+  * Scraping: using the `first-web-scraper` repository we worked on in class, copy the congress/scrape.py file into the crime folder. Open it in TextWrangler and replace the House url with [this one](http://www.tdcj.state.tx.us/death_row/dr_scheduled_executions.html) and then adjust the script to extract the upcoming Texas executions into a new CSV file named `executions.csv` (you'll need to replace the filename in the `scrape.py` file and change the headers, too, and you'll have to find the right HTML table to pull from).
+  * Final Projects: Tell me your problems. Put a file called `problems.md` in your team's repository with any problems you've run into, in order of importance, and what you've tried to resolve them. Be prepared to discuss the top 2-3 in class.
+  * [Public Info Doesn't Always Want to be Free](https://source.opennews.org/en-US/learning/public-info-doesnt-always-want-be-free/)
