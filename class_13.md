@@ -1,4 +1,3 @@
-
 ### Scraping!
 
   * Fork [this repository](https://github.com/SMPA3193/first-web-scraper) to your GitHub account.
