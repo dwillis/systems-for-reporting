@@ -9,6 +9,8 @@
   * Next, create a new virtual environment: `mkvirtualenv scraper`
   * `pip install requests`
   * `pip install BeautifulSoup`
+  
+  We'll be scraping from [this page](https://pressgallery.house.gov/member-data/demographics/women)
 
 ### Assignments
 
