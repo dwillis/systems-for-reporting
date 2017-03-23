@@ -22,10 +22,10 @@ This outline is just that - an outline, and subject to change depending on our p
 * March 16 - NO CLASS (SPRING BREAK)
 * March 21 - Scraping
 * March 23 - Scraping
-* March 28 - Mapping
-* March 30 - Mapping
-* April 4 - Building Web applications, Part 1
-* April 6 - Building Web applications, Part 2
+* March 28 - Working with PDFs
+* March 30 - Working with PDFs
+* April 4 - Mapping
+* April 6 - Mapping
 * April 11 - Guest Speaker: How the Internet Works
 * April 13 - Guest Speaker: Rachel Shorey
 * April 18 - In-class project time
