@@ -10,5 +10,6 @@
 
 ### Assignments for March 28
 
-  * Scraping: 
-  * Project Updates: Due by Tuesday
+  * Scraping:
+  * Project Updates: Due by Tuesday, pushed to Github
+  * Install [http://tabula.technology/](http://tabula.technology/) on your laptops.
