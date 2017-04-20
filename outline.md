@@ -30,5 +30,5 @@ This outline is just that - an outline, and subject to change depending on our p
 * April 13 - Guest Speaker: Rachel Shorey
 * April 18 - In-class project time
 * April 20 - In-class project time
-* April 25 - Presentations
-* April 27 - One Last Time
+* April 25 - In-class project time
+* April 27 - Presentations
