@@ -10,6 +10,7 @@
 * [sqlite3](https://docs.python.org/3.4/library/sqlite3.html) for reading/writing SQLite databases
 * [csvkit](https://github.com/wireservice/csvkit) for working with CSV files
 * [Libextract](https://github.com/datalib/libextract) extracts text from websites
+* [Counting Frequencies](http://programminghistorian.org/lessons/counting-frequencies)
 
 ### Some Python projects
 
